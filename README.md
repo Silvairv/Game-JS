@@ -35,6 +35,7 @@ Confirmar que o sistema de pontuação e dificuldade funciona.
 Verificar se o jogo termina ao detectar colisões.
 
 Documentação
+
 O código foi documentado com comentários explicativos para cada função, além de incluir um guia breve sobre o funcionamento do jogo e suas mecânicas.
 
 3. Tecnologias Utilizadas
