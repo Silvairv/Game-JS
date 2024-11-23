@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/04ebc60f-7882-4578-b08a-6824737b7994
-
 1. Endereço do Repositório no GitHub
 https://github.com/Silvairv/Game-JS
 
