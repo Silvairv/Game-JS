@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/04ebc60f-7882-4578-b08a-6824737b7994
+
 1. Endereço do Repositório no GitHub
 https://github.com/Silvairv/Game-JS
 
@@ -96,5 +100,7 @@ Continue jogando para alcançar a maior pontuação possível.
 Se você colidir com um obstáculo, o jogo termina e sua pontuação final será exibida.
 
 5.Demo do Jogo por Vídeo
+
+https://github.com/user-attachments/assets/be7ce43f-edb6-4b79-9d95-b43f101ca215
 
 
